@@ -5,7 +5,7 @@ Use [Sparcet](http://www.sparcd.com)?  Want to show off your recent sparcets on 
 
 I created this simple plug for the purposes of displaying recent sparcets that were given to me.
 
-Sparcet has a public api posted [HERE](https://github.com/sparcedge/Sparcet-Public) which is what I used to access the public feeds from the Sparc Platform.
+Sparcet has a public api posted [HERE](https://github.com/sparcedge/Sparcet-Public) which is what I used to access the public feeds from the Sparc'd Platform.
 
 If you haven't heard of sparcets, they are a new way to recognize your peers/coworkers. If your organization or company isn't using [Sparcet](http://www.sparcd.com), you should check them out!
 
