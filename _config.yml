@@ -1,0 +1,6 @@
+# You'll need to past this below in your _config.yml file under third party plugins
+
+# Sparcet
+sparcet_user:           # This is a unique ID, not a username - To find yours: http://{tenant}.sparcet.com/api/users?q={email or partial string}
+sparcet_count:          # How many sparcets do you want to list
+sparcet_tenant:         # Specific Tenant (eg. sparc)
