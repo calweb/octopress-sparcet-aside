@@ -13,12 +13,12 @@ You can view it in action on my [blog](http://blog.hellocalvin.com)
 
 Installation
 ------------
-### 1. Choose which version of the aside you want to use.  (They both use jquery, I just used jQuery.noConflict() in the ender one).
+1. Choose which version of the aside you want to use.  (They both use jquery, I just used jQuery.noConflict() in the ender one).
 
-### 2. I've created the path to the relevant directory in Octopress to put the sidebar file, simply navigate to that path in your setup and paste it in there.
+2. I've created the path to the relevant directory in Octopress to put the sidebar file, simply navigate to that path in your setup and paste it in there.
        ```/source/_includes/asides/```
 
-### 3. In your ```_config.yml```, add the file reference in default_asides, or if you only want it to appear in certain places,blog_index_asides, page_asides, or post_asides.
+3. In your ```_config.yml```, add the file reference in default_asides, or if you only want it to appear in certain places,blog_index_asides, page_asides, or post_asides.
 
 Example:
 
@@ -26,7 +26,7 @@ Example:
 default_asides: [asides/sparcet.html, asides/github.html, asides/twitter.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
 ```
 
-### 4. Now that you have added the aside sparcet.html, you'll need to finish your ```_config.yml``` to include the information about your sparcets
+4. Now that you have added the aside sparcet.html, you'll need to finish your ```_config.yml``` to include the information about your sparcets
 
 ```
 # Sparcet
