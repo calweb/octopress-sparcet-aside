@@ -1,23 +1,22 @@
-# Sparcet Aside for Octopress
-
+Sparcet Aside for Octopress
+=======================
 
 Use [Sparcet](http://www.sparcd.com)?  Want to show off your recent sparcets on your Octopress blog?
 
 I created this simple plug for the purposes of displaying recent sparcets that were given to me.
 
-Sparcet has a public api posted [HERE](https://github.com/sparcedge/Sparcet-Public) which is what I used to access the public feeds from the Sparc'd Platform.
+Sparcet has a public api posted [HERE](https://github.com/sparcedge/Sparcet-Public) which is what I used to access the public feeds from the Sparc Platform.
 
 If you haven't heard of sparcets, they are a new way to recognize your peers/coworkers. If your organization or company isn't using [Sparcet](http://www.sparcd.com), you should check them out!
 
 You can view it in action on my [blog](http://blog.hellocalvin.com)
 
-## Installation
-
+Installation
+------------
 ### 1. Choose which version of the aside you want to use.  (They both use jquery, I just used jQuery.noConflict() in the ender one).
 
 ### 2. I've created the path to the relevant directory in Octopress to put the sidebar file, simply navigate to that path in your setup and paste it in there.
-
-```/source/_includes/asides/```
+       ```/source/_includes/asides/```
 
 ### 3. In your ```_config.yml```, add the file reference in default_asides, or if you only want it to appear in certain places,blog_index_asides, page_asides, or post_asides.
 
