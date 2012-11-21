@@ -16,6 +16,7 @@ You can view it in action on my [blog](http://blog.hellocalvin.com)
 ### 1. Choose which version of the aside you want to use.  (They both use jquery, I just used jQuery.noConflict() in the ender one).
 
 ### 2. I've created the path to the relevant directory in Octopress to put the sidebar file, simply navigate to that path in your setup and paste it in there.
+
 ```/source/_includes/asides/```
 
 ### 3. In your ```_config.yml```, add the file reference in default_asides, or if you only want it to appear in certain places,blog_index_asides, page_asides, or post_asides.
