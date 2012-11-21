@@ -1,5 +1,5 @@
-Sparcet Aside for Octopress
-=======================
+# Sparcet Aside for Octopress
+
 
 Use [Sparcet](http://www.sparcd.com)?  Want to show off your recent sparcets on your Octopress blog?
 
@@ -11,8 +11,8 @@ If you haven't heard of sparcets, they are a new way to recognize your peers/cow
 
 You can view it in action on my [blog](http://blog.hellocalvin.com)
 
-Installation
-------------
+## Installation
+
 ### 1. Choose which version of the aside you want to use.  (They both use jquery, I just used jQuery.noConflict() in the ender one).
 
 ### 2. I've created the path to the relevant directory in Octopress to put the sidebar file, simply navigate to that path in your setup and paste it in there.
